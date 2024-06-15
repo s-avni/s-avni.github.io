@@ -13,6 +13,9 @@ You've submitted your application to the Oxford CompSci MSc Program! What happen
 * auto-gen TOC:
 {:toc}
 
+<!-- TODO: add this in default layout -->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 # Take-Home Assignment
 
 When applying for the computer science MSc at Oxford, the next stage after submitting the personal statement and reference letters is a take-home assignment. I was given 48 hours to complete the assignment - the questions were not difficult, and I believe can be done without much effort by anyone who
@@ -49,7 +52,7 @@ labels (without caring about order), and assign them to D (for instance). In sho
 **_B. Given $$k$$ different baskets and $$n$$ identical apples, such that $$k>n$$, how many ways can we allocate the apples such that no basket is empty?_** Answer:
 
 
-This is a “Combinations with Repetitions” problem. However, since $$n>k$$ and we require that no basket be empty, $$k$$ apples are already accounted for: each of the first $$k$$ apples must go into the $$k$$ different baskets, and there is only one
+This is a “Combinations with Repetitions” problem. However, since $$k>n$$ and we require that no basket be empty, $$k$$ apples are already accounted for: each of the first $$k$$ apples must go into the $$k$$ different baskets, and there is only one
 way to do this since they are indistinguishable.
 
 The remaining $$n-k$$ apples can go into any of the baskets, and there are $${(n-k)+k-1}\choose{n-k}$$, which gives us the final answer (multiplied by the factor of 1 from earlier).
