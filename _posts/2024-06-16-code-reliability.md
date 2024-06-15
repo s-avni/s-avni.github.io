@@ -1,6 +1,16 @@
-All coders have at some point looked at their code and thought: "dang, it's going to be a headache to add this new feature" or "where the heck is the bug?" or "what was I thinking when I wrote this?"
+---
+title: "Reliable Code"
+categories:
+  - misc.
+tags:
+  - life
+  - google
+toc: true
+---
 
-after 4 years at Google, this is some of the rules of thumb I use when coding. None of these are original insights, but it took time to cluster them together in my head:
+After 4 years in the industry, I still have so much to learn. At the same time, I've definitely come a long way in terms of writing reliable code.
+
+After 4 years at Google, this is some of the rules of thumb I use when coding. None of these are original insights, but it took time to cluster them together in my head:
 
 Embrace your tests! Specifically:
 
