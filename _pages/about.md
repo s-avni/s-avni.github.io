@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+At present I'm a software developer / site reliability engineer at Google, based in Munich.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Tl;dr:
+
+* I grew up in Israel & California.
+* MSc in Computer Science from Oxford; BSc in Physics and Computer Science from the Technion (Israel).
+* Besides my interest in tech & science, I also love reading biographies, hiking & bouldering.
+* My name in Hebrew means "my song". Considering my complete lack of musical talent, this is somewhat ironic. Nonetheless, I appreciate the thoughtfulness my parents put into choosing my name.
+
+My resume is available in [PDF](/assets/resume.pdf).
