@@ -4,13 +4,15 @@ categories:
   - Oxford
 tags:
   - applications
+  - family
+  - international students
 author: Scheherezade H. Tarar
 ---
 
-* auto-gen TOC:
-{:toc}
-
 A year has gone by since I left the timeless town of Oxford. No words can do justice to the experiences and memories I have attached to Oxford - all I can say is that my time there was the most memorable time of my life, and it was made more precious since I was able to share it with my family: my husband and our three daughters (ages 2, 10 and 14 at the time).
+
+* auto-gen TOC:
+  {:toc}
 
 # Background
 

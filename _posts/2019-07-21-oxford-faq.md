@@ -13,9 +13,7 @@ I wrote this piece since I had a lot of people reach out to me via Linkedin with
 
 # Is the MSc at Oxford only 1 year? Why?
 
-Many, but not all, Master's degrees at Oxford last approximately one year. 
-
-As for the rationale behind this duration, it appears to be a matter of historical precedent. The MSc programs were initially designed this way and have continued accordingly. From my experience in the Computer Science department, the aim of the MSc is to begin specializing and gaining a real taste of research. If a student enjoys the year, they are encouraged to continue on to a PhD.
+Many, but not all, Master's degrees at Oxford last approximately one year. From my experience in the Computer Science department, the aim of the MSc is to begin specializing in a field and to gain a taste of research before committing to a PhD.
 
 # Do CompSci MSc students publish a paper?
 

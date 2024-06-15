@@ -12,4 +12,4 @@ Tl;dr:
 * Besides my interest in tech & science, I also love reading biographies, hiking & bouldering.
 * My name in Hebrew means "my song". Considering my complete lack of musical talent, this is somewhat ironic. Nonetheless, I appreciate the thoughtfulness my parents put into choosing my name.
 
-My resume is available in [PDF](/assets/resume.pdf).
+My resume is available [here]({% link /assets/resume.pdf %}).

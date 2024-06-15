@@ -24,9 +24,7 @@ While I no longer have my original questions, I can roughly guess what they were
 
 ## 1st Question
 
-<i>Tell us about a mathematical course you enjoyed studying during your undergraduate degree and how it is applied in computer science. Write around 250 words. </i>
-
-### Answer
+<i>Tell us about a mathematical course you enjoyed studying during your undergraduate degree and how it is applied in computer science. Write around 250 words. </i> Answer:
 
 Although I love mathematics in general, one field that I have found especially interesting is linear algebra. I first became interested in this field when I discovered that one could determine whether a system of equations has none, one, or infinitely many solutions using an abstract object called a determinant. Although I later learned that a determinant is not used in practice due to its computational complexity, I was still captivated by the idea of approaching a practical problem with a more higher-level perspective.
 
@@ -40,9 +38,7 @@ solution of the Least Squares problem.
 
 ## 2nd Question
 
-**_A. Given an ($$n$$,$$n$$) grid, how many paths are there from $$(0,0)$$ to $$(n,n)$$?_**
-
-### Answer
+**_A. Given an ($$n$$,$$n$$) grid, how many paths are there from $$(0,0)$$ to $$(n,n)$$?_** Answer:
 
 While you can solve this question for a specific value of $$n$$ using dynamic programming (or recursion, if your computer has the memory capacity), combinatorics
 allows you to obtain a general solution:
@@ -50,11 +46,10 @@ allows you to obtain a general solution:
 One must take $$n-1$$ moves down (D) and $$n-1$$ moves right (R), for a total of $$2(n-1)$$ steps. If we order the steps and give them labels from $$1$$ to $$2(n-1)$$, then we simply need to count the number of ways to select $$n-1$$ of these
 labels (without caring about order), and assign them to D (for instance). In short, there are $${2n-1}\choose{n-1}$$ paths.
 
-**_B. Given $$k$$ different baskets and $$n$$ identical apples, such that $$k>n$$, how many ways can we allocate the apples such that no basket is empty?_**
+**_B. Given $$k$$ different baskets and $$n$$ identical apples, such that $$k>n$$, how many ways can we allocate the apples such that no basket is empty?_** Answer:
 
-### Answer
 
-This is a “Combinations with Repetitions”[^1] problem. However, since $$n>k$$ and we require that no basket be empty, $$k$$ apples are already accounted for: each of the first $$k$$ apples must go into the $$k$$ different baskets, and there is only one
+This is a “Combinations with Repetitions” problem. However, since $$n>k$$ and we require that no basket be empty, $$k$$ apples are already accounted for: each of the first $$k$$ apples must go into the $$k$$ different baskets, and there is only one
 way to do this since they are indistinguishable.
 
 The remaining $$n-k$$ apples can go into any of the baskets, and there are $${(n-k)+k-1}\choose{n-k}$$, which gives us the final answer (multiplied by the factor of 1 from earlier).
@@ -64,15 +59,9 @@ The remaining $$n-k$$ apples can go into any of the baskets, and there are $${(n
 <i>Given a connected graph with $$k$$ vertices ($$k>4$$), where each vertex starts with a color of red or blue, at each time step a vertex becomes the color that is
 the majority of its neighbors' colors, and does not switch if there is a tie.
 
-Prove or disprove the following claim: If the graph reaches a static situation, then all vertices are of the same color.</i>
+Prove or disprove the following claim: If the graph reaches a static situation, then all vertices are of the same color.</i> Answer:
 
-### Answer
-
-I spent a while trying to prove this claim, but it is actually false. A counter example is seen below. Half the vertices are red and the other half are blue, but none of the vertices can change colors.
-
-R \ / B
-| R ---- B
-R / \ B
+I spent a while trying to prove this claim, but it is actually false. A counter example a triangle with 3 red nodes connected by 1 segment to a triangle with 3 blue nodes. Half the vertices are red and the other half are blue, but none of the vertices can change colors.
 
 ## 4th Question
 
@@ -82,9 +71,9 @@ I do not recall the last question precisely, yet it was a simple coding question
 
 the last step of the application is an online interview. The interview lasts about 40 minutes, and is comparable to the take-home assignment. Prior to the interview, I had prepared personal answers in expectation of getting questions about my CV, but the questions were in fact standard, non-personal ones:
 
-1.  Question about <b>combinatorics</b>
-2.  Question about providing an algorithm for <b>graphs</b>, with a follow-up about the time and space complexity of the solution and tweaking the BFS algorithm.
-3.  Simple <b>recursion</b> problem, with follow-ups about dynamic programming and memoization.
+1.  Question about combinatorics.
+2.  Question about providing an algorithm for graphs, with a follow-up about the time and space complexity of the solution and tweaking the BFS algorithm.
+3.  Simple recursion problem, with follow-ups about dynamic programming and memoization.
 
 # Conclusion
 
