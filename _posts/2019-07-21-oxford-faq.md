@@ -4,12 +4,11 @@ categories:
   - Oxford
 tags:
   - applications
+  - computer science
+toc: true
 ---
 
 I wrote this piece since I had a lot of people reach out to me via Linkedin with similar questions about applying to Oxford.
-
-* auto-gen TOC:
-{:toc}
 
 # Is the MSc at Oxford only 1 year? Why?
 

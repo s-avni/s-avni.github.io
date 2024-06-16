@@ -6,13 +6,11 @@ tags:
   - code
   - application
   - algorithms
+toc: true
 ---
 
 To apply to most Oxford courses, you need to submit a personal statement. In many countries, including mine, students in school don't write many essays, if at all. At the same time, preparing an engaging personal statement is important, especially since
 you may be competing against people who have more experience in writing than you do. In the hopes that it will be helpful, my essay is provided below. While it is focused on the computer science MSc, the structure is one that you could adapt for your application.
-
-* auto-gen TOC:
-{:toc}
 
 # Introduction
 

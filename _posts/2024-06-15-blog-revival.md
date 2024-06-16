@@ -1,9 +1,8 @@
 ---
 title: "Blog Revival"
 categories:
-  - misc.
-tags:
   - life
+tags:
   - google
 toc: true
 ---

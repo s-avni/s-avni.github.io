@@ -5,12 +5,10 @@ categories:
 tags:
   - scholarships
   - colleges
+toc: true
 ---
 
 What's the difference between Oxford University and the Oxford Colleges?
-
-* auto-gen TOC:
-{:toc}
 
 # What is a College?
 

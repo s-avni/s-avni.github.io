@@ -5,12 +5,10 @@ categories:
 tags:
   - budget
   - colleges
+toc: true
 ---
 
 Oxford, like other places, isn't perfect. Here's a breakdown of what I loved & hated about it.
-
-* auto-gen TOC:
-{:toc}
 
 # The Good
 

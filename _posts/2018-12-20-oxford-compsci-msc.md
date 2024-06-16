@@ -6,13 +6,10 @@ tags:
   - code
   - math
   - thesis
+toc: true
 ---
 
 This post is intended to give you an idea of what to expect if you enroll in the Oxford MSc in Computer Science program. Beyond discussing the course structure, I’ll also review the courses I took during the 2017/2018 academic year.
-
-* auto-gen TOC:
-{:toc}
-
 
 # Degree Structure
 

@@ -6,12 +6,10 @@ tags:
   - code
   - application
   - algorithms
+toc: true
 ---
 
 You've submitted your application to the Oxford CompSci MSc Program! What happens next?
-
-* auto-gen TOC:
-{:toc}
 
 <!-- TODO: add this in default layout -->
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

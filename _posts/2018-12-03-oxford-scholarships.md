@@ -5,12 +5,10 @@ categories:
 tags:
   - scholarships
   - colleges
+toc: true
 ---
 
 Studying at Oxford is expensive, but there are many scholarships available for MSc students. With careful planning, there is a good chance you can secure at least some funding for your degree. In fact, after debating whether to apply to Cambridge or Oxford, this was a primary reason I ultimately only applied for the latter: Cambridge appeared to offer significantly fewer scholarships for MSc students.
-
-* auto-gen TOC:
-{:toc}
 
 # Uni Scholarships vs College Scholarships
 
