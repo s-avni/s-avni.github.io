@@ -1,5 +1,5 @@
 ---
-title: "Oxford MSc Application: Personal Statement"
+title: 'Oxford MSc Application: Personal Statement'
 categories:
   - Oxford
 tags:

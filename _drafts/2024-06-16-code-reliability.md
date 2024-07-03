@@ -1,5 +1,5 @@
 ---
-title: "Reliable Code"
+title: 'Reliable Code'
 categories:
   - misc.
 tags:

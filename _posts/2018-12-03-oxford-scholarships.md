@@ -1,5 +1,5 @@
 ---
-title: "Oxford: Securing a Scholarship for MSc Students"
+title: 'Oxford: Securing a Scholarship for MSc Students'
 categories:
   - Oxford
 tags:
@@ -24,6 +24,6 @@ While at Oxford, I had the immense privilege of being fully funded by the Weiden
 
 The WHT scholarship staff were incredibly kind, generous, and supportive, and they made my year at Oxford so much more memorable. One of the highlights was a multi-day pre-year seminar on leadership and ethics Throughout the year, WHT staff organized additional leadership sessions and fun activities for us, such as going on a tour of Parliament and ice-skating in London over Christmas.
 
-What I believe distinguishes this scholarship from others like the Rhodes Scholarship, is its intimacy and multiculturalism. With a limit of 3 scholars from any single country each year, it prevents the formation of country-specific cliques and ensures a diverse range of perspectives.  
+What I believe distinguishes this scholarship from others like the Rhodes Scholarship, is its intimacy and multiculturalism. With a limit of 3 scholars from any single country each year, it prevents the formation of country-specific cliques and ensures a diverse range of perspectives.
 
 The trust was established by George Weidenfeld (1919-2016), who led an inspiring life despite his difficult youth. Lord Weidenfeld fled Austria in 1938 and relocated to the UK, where he rebuilt his life from the ground up. The trust also receives support from Michael Lewis and André Hoffmann.

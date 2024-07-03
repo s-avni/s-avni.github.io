@@ -1,5 +1,5 @@
 ---
-title: "Oxford: Q&A for Applicants"
+title: 'Oxford: Q&A for Applicants'
 categories:
   - Oxford
 tags:
@@ -16,7 +16,7 @@ Many, but not all, Master's degrees at Oxford last approximately one year. From 
 
 # Do CompSci MSc students publish a paper?
 
-The MSc in Computer Science is a taught program, consisting of two terms of courses followed by a third term dedicated to thesis work. If you can manage your course load, you can unofficially begin your research earlier- to complete the MSc, students need to complete 6 courses, with a limit of 4 courses per term. 
+The MSc in Computer Science is a taught program, consisting of two terms of courses followed by a third term dedicated to thesis work. If you can manage your course load, you can unofficially begin your research earlier- to complete the MSc, students need to complete 6 courses, with a limit of 4 courses per term.
 
 For intance, I completed 4 courses in my first term and 2 in my second term, and began work on my thesis already in my second term. Then in the third term, I focused full-time on my thesis.
 
@@ -40,6 +40,6 @@ In my cohort, most students were top of their class in their undergrad. However,
 
 For the CompSci MSc, what coding skills should an incoming student have?
 
-Great question. Many students I met came to the MSc from pure mathematics or  more technical engineering backgrounds. You definitely shouldn't be afraid of coding, as it's required in most courses for the 'practical' sessions or homework. Most practicals aren't difficult, with the exception of code-intensive course like "Programming Languages." You can opt to enroll in the more theoretical courses with minimal coding, such as "Game Theory" if you prefer not to code as much.
+Great question. Many students I met came to the MSc from pure mathematics or more technical engineering backgrounds. You definitely shouldn't be afraid of coding, as it's required in most courses for the 'practical' sessions or homework. Most practicals aren't difficult, with the exception of code-intensive course like "Programming Languages." You can opt to enroll in the more theoretical courses with minimal coding, such as "Game Theory" if you prefer not to code as much.
 
 For instance, I took a Machine Learning course that required Python for the practical sessions. These sessions required only about ~200 lines of code, and the focus was on developing select functions to enhance your understanding, rather than building up a huge project from scratch.

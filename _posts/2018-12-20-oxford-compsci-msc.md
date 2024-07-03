@@ -1,5 +1,5 @@
 ---
-title: "Oxford: The CompSci MSc Program"
+title: 'Oxford: The CompSci MSc Program'
 categories:
   - Oxford
 tags:

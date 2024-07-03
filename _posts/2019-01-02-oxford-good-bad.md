@@ -1,5 +1,5 @@
 ---
-title: "Oxford: the Good, the Bad, & the Ugly"
+title: 'Oxford: the Good, the Bad, & the Ugly'
 categories:
   - Oxford
 tags:
@@ -44,7 +44,7 @@ The colleges are intentionally isolated, so if you don't like your college, you 
 
 ## Academic Dress 
 
-Oxford takes its traditions seriously, and one of these includes wearing an academic dress, known as "sub-fusc." While I didn't mind wearing the sub-fusc for commencement and graduation ceremonies, having to wear it for exams was slightly vexing for me. In my undergrad, we typically showed up for exams in sweatpants and baggy sweaters, which I found ideal after several nights of little sleep spent cramming. To put it mildly, on exam mornings at Oxford, I was not enthusiastic about dealing with bows, ties, and an uncomfortable gown. However, it amused me to observe the other students in the exam room: it was easy to spot the British students—they looked graceful and comfortable in their gowns—compared to the foreign students, who were fidgeting awkwardly in their garments with bows tied messily and loosely around their necks.  
+Oxford takes its traditions seriously, and one of these includes wearing an academic dress, known as "sub-fusc." While I didn't mind wearing the sub-fusc for commencement and graduation ceremonies, having to wear it for exams was slightly vexing for me. In my undergrad, we typically showed up for exams in sweatpants and baggy sweaters, which I found ideal after several nights of little sleep spent cramming. To put it mildly, on exam mornings at Oxford, I was not enthusiastic about dealing with bows, ties, and an uncomfortable gown. However, it amused me to observe the other students in the exam room: it was easy to spot the British students—they looked graceful and comfortable in their gowns—compared to the foreign students, who were fidgeting awkwardly in their garments with bows tied messily and loosely around their necks.
 
 # The Ugly
 

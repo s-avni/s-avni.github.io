@@ -2,7 +2,7 @@
 
 ## Minimal Mistakes Basis
 
-My blog is based on the [Minimal Mistake remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) 
+My blog is based on the [Minimal Mistake remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate)
 
 TODO: [Configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
@@ -16,5 +16,3 @@ TODO: [Configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs
 bundle install
 bundle exec jekyll serve
 ```
-
-

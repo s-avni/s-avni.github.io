@@ -1,5 +1,5 @@
 ---
-title: "Oxford MSc Application: Passing the Take Home Assignment & Interview"
+title: 'Oxford MSc Application: Passing the Take Home Assignment & Interview'
 categories:
   - Oxford
 tags:
@@ -48,7 +48,6 @@ One must take $$n-1$$ moves down (D) and $$n-1$$ moves right (R), for a total of
 labels (without caring about order), and assign them to D (for instance). In short, there are $${2n-1}\choose{n-1}$$ paths.
 
 **_B. Given $$k$$ different baskets and $$n$$ identical apples, such that $$k>n$$, how many ways can we allocate the apples such that no basket is empty?_** Answer:
-
 
 This is a “Combinations with Repetitions” problem. However, since $$k>n$$ and we require that no basket be empty, $$k$$ apples are already accounted for: each of the first $$k$$ apples must go into the $$k$$ different baskets, and there is only one
 way to do this since they are indistinguishable.

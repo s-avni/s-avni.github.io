@@ -1,5 +1,5 @@
 ---
-title: "Oxford: Picking a College (House)"
+title: 'Oxford: Picking a College (House)'
 categories:
   - Oxford
 tags:
@@ -37,20 +37,23 @@ The quality of cafeterias and the number of meals served daily can vary signific
 This was my college! It is named after Will Keith Kellogg, the founder of Kellogg's cereal, who established a fund that, among other things, supports this institution.
 
 **Pros:**
+
 1. Very international- we often joked that the British in the college were rare gems that we needed to protect.
-2. Has intimate libraries that are open 24/7 and are great for studying. 
-3. Comfy hang out rooms. 
-4. Great food, though the meals cost around 6 pounds. 
+2. Has intimate libraries that are open 24/7 and are great for studying.
+3. Comfy hang out rooms.
+4. Great food, though the meals cost around 6 pounds.
 5. Close to the gorgeous University Parks.
 6. The college administration really tries their best to make you feel comfortable - any problem that I had with my dorms was fixed within 24 hours. In contrast, I've heard horror stories about other colleges who take two months to fix issues as simple as broken heating appliances.
 
 **Cons:**
+
 1. Less wealthy - so no travel grants and almost no scholarships. Dorms and food are more expensive.
 2. Mostly a part-time college (i.e. a college for part time students who do not live in Oxford), so the number of full-time students is smaller. While this gives a more intimate experience, it also means you have less people to choose from for your social group.
 
 ## Linacre (Grad only)
 
 **Pros:**
+
 1. Very international as well.
 2. Close to University Parks.
 3. Great social life - lots of events and a large number of students. I always met interesting people when I visited their common rooms.
@@ -58,12 +61,14 @@ This was my college! It is named after Will Keith Kellogg, the founder of Kellog
 5. Cheap cafeteria food, which I always found satisfactory. If you're a food snob though, this may be an issue.
 
 **Cons:**
+
 1. The cafeteria food is not the best in Oxford.
 2. I've heard complaints from students who moved with their partners and children, so it seems that Linacre is not very accommodating to families.
 
 ## Wolfson (Grad only)
 
 **Pros:**
+
 1. Very international as well.
 2. Great treatment of students who move with their families.
 3. Located right on the edge of a stream and walking path.
@@ -71,29 +76,33 @@ This was my college! It is named after Will Keith Kellogg, the founder of Kellog
 5. Good dorm and food prices.
 
 **Cons:**
+
 1. The only con I've heard about this college is its location: it's quite far from the center of town. If you don't see yourself riding a bicycle around Oxford, I would take its remote location into serious consideration, or you'll be taking very long walks or paying for taxis.
 
 ## Keble (Grad and Undergrad)
 
 **Pros:**
-1. Very international. 
+
+1. Very international.
 2. Brand new grad dorms that are comfortable and stylish.
 3. 24/7 open library.
 4. Quite wealthy: offers many travel grants and scholarships.
 5. Has a choir.
-6. Hosts two parties a week in their common room. 
+6. Hosts two parties a week in their common room.
 
 ## Jesus (Grad and Undergrad)
 
 **Pros:**
-1. Offers 3 meals a day! 
+
+1. Offers 3 meals a day!
 2. Great location in the center of town, although if you're a nature person you may prefer being a bit further away.
 3. A wealthy college that charges rent on a <i>day</i> basis rather than a monthly one: this means that if you leave your belongings in a friend's dorm over the holiday vacation, you won't need to pay anything during the time that you're abroad.
-4. Has a squash court and a choir. 
+4. Has a squash court and a choir.
 5. 24/7 open library
 6. Generous 100 pound grant for textbooks for each student
 
 **Cons:**
+
 1. I've understood that it has a very British culture and has less internationals (although you may considered this a pro).
 
 # Concluding Remarks

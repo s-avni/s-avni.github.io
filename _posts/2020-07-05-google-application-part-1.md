@@ -1,5 +1,5 @@
 ---
-title: "Getting into Google: Part 1"
+title: 'Google: Landing the SWE Job - Part 1'
 categories:
   - google
 tags:
@@ -15,7 +15,7 @@ _System Design_ interview, because that is only given for applicants with experi
 **Disclaimer**: these notes in no way reflect Google's position on the matter, and only represent my
 personal opinions.
 
-## Applying: General Tips
+# Applying: General Tips
 
 First, I strongly suggest applying for companies besides Google as well. The reasons I recommend applying for several companies are:
 
@@ -41,7 +41,7 @@ First, I strongly suggest applying for companies besides Google as well. The rea
   For this reason, I would recommend interviewing with several companies. You'll habituate yourself to the interview environment and
   gain valuable practice in verbal communication.
 
-## Do Mock Interviews!
+# Do Mock Interviews!
 
 The interview nerves discussed in the previous section lead me to strongly suggest you find people to do mock interviews with before
 approaching any company. There are 3 avenues I would recommend for mock interviews, each one having its unique benefits:
@@ -59,7 +59,7 @@ approaching any company. There are 3 avenues I would recommend for mock intervie
    for you to conduct a mock interview with them. Some of the best advice that I received (on coding style, communication clarity, and
    general thought processes) came from 2 mock interviews that I had with real Google employees, who have professional interview experience.
 
-## Interview Topics: Bird's Eye View
+# Interview Topics: Bird's Eye View
 
 In my experience, the Google technical interviews aim to check 3 qualities in (junior) software developers:
 
@@ -76,11 +76,11 @@ In my experience, the Google technical interviews aim to check 3 qualities in (j
 - **Your coding ability**: Google wants to know that you can (1) code and (2) look _critically_ at your code for checking bugs and
   correctness. It doesn't matter which language you pick to code in (I used Python), but make sure you code nicely in that language. For instance, don't code in Python as if it were C++: in Python, I made sure to use list comprehensions rather than for-loops, and use tuples rather than lists when my variables were immutable. I think this is a reasonable expectation: Google expects you to have done due diligence in familiarizing yourself with the writing style of your preferred language.
 
-## Resources: What You Should Read
+# Resources: What You Should Read/Do
 
 The resources that helped me the most, and which all proved invaluable:
 
-### [Introduction to Algorithms by CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+## [Introduction to Algorithms by CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 This wonderful book covers almost all the theory you need in order to understand the standard data structures and algorithms (notably, it's
 missing information about Tries; I'll detail resources for that below). However, note that some of the book's data structure implementation details don't correspond to those normally provided in interviews:
@@ -96,7 +96,7 @@ missing information about Tries; I'll detail resources for that below). However,
   `getSuccessor()` function. In interviews, this attribute often does not exist, so I would strongly recommend understanding how to
   implement all the standard binary tree operations for two separate cases: one when nodes have a parent attribute, and one when they don't.
 
-### [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+## [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 
 This is the book that truly got me excited about using data structures (and reviewing their theory again). It's a long book, and I don't
 think you need to read all of it (I didn't). By reading the author's algorithmic "war stories" from real-world businesses, I finally
@@ -108,7 +108,7 @@ internalized how crucial the correct choice of data structure is, and how interc
   this); the same is true for insertion sort and the creation of a balanced binary search tree.
 - Explaining in a clearer manner than CLRS the applications and implementations of DFS in both directed and undirected graphs.
 
-### [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+## [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 This book is indescribably useful in learning how to approach an interview question. The book details the crucial steps in tackling a problem:
 
@@ -128,7 +128,7 @@ This book is indescribably useful in learning how to approach an interview quest
 6. Write clean, modular code.
 7. Use the example from step #2 or propose a better example for walking through and debugging your code.
 
-### [Leetcode](https://leetcode.com/)
+## [Leetcode](https://leetcode.com/)
 
 Leetcode is an amazing resource for practicing coding interview questions. I personally felt that Leetcode's question style was quite
 similar to many of the questions I received at interviews. In addition, I liked the fact that Leetcode's questions are succinct in
@@ -138,6 +138,6 @@ home assignment).
 
 Leetcode offers detailed solutions to many of its problems, and the forums are also a wonderful source of information (for instance, see this [post](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) on dynamic programming patterns). I learned how to nicely code [Tries](https://leetcode.com/problems/implement-trie-prefix-tree/) on the platform, and the ability to filter problems by corporation, by difficulty level, and by topic was immensely beneficial. I felt that the Google questions I was asked corresponded to **easy** and **medium** on Leetcode, so those are the ones I would recommend spending the majority of your time on.
 
-## Next Step
+# Next Step
 
 For concrete technical advice, please see my next [post]({% link _posts/2020-07-06-google-application-part-2.md %}).
