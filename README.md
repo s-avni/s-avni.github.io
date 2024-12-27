@@ -1,14 +1,10 @@
-# Shiri's Blog
+# Shiri's Personal Blog
 
-## Minimal Mistakes Basis
+## Theme Template
 
-My blog is based on the [Minimal Mistake remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate)
+My blog is based on the [Minimal Mistake remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate).
 
-TODO: [Configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
-## Other Blog Sources To Look At
-
-- https://gitlab.com/marcus.held/code-held/
+TODO: [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ## Cheatsheet
 

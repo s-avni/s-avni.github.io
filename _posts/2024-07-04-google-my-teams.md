@@ -9,7 +9,7 @@ tags:
 toc: true
 ---
 
-During my time at Google, I've had the privilege of working on 3 vastly different teams. My motivation for this post is to give you a glimpse into the diverse working environments within Google. My work on each team varied widely, and so did each team's culture!
+During my time at Google, I had the privilege of working on 3 vastly different teams. My motivation for this post is to give you a glimpse into the diverse working environments within Google. My work on each team varied widely, and so did each team's culture!
 
 # Team 1: Android/iOS Notifications
 
@@ -66,19 +66,19 @@ As a side note, I believe it was detrimental that we had such limited interactio
 
 # Team 3: Securing Google's Internal Usage of GCP
 
-In my current team I focus on [GCP firewall management](https://cloud.google.com/security/products/firewall?hl=en) for Google-internal teams using GCP. My teammates and I are responsible for an intermediary layer between GCP and the Google internal teams using GCP firewalls - this layer oversees and facilitates how the teams manage their firewall policies in GCP, ensuring they adhere to Google's security and reliability specifications.
+In my last team I focused on [GCP firewall management](https://cloud.google.com/security/products/firewall?hl=en) for Google-internal teams using GCP. My teammates and I were responsible for an intermediary layer between GCP and the Google internal teams using GCP firewalls - this layer oversees and facilitates how the teams manage their firewall policies in GCP, ensuring they adhere to Google's security and reliability specifications.
 
-On this team, I've finally had the chance to design and implement a large, multi-person project from scratch. The challenges involved in starting a project from zero compared to developing features for an existing project were of a different caliber and instructive!
+On this team, I finally had the chance to design and implement a large, multi-person project from scratch. The challenges involved in starting a project from zero compared to developing features for an existing project were of a different caliber and instructive!
 
-When I joined the team, it was an [SRE](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started) team, so I had the opportunity to learn about being oncall and to gain my first holistic view of products at Google. This experience has helped me understand products more comprehensively end-to-end (e.g. monitoring, alerting, reliability), which was something I missed in my first two SWE teams when I worked on specific features in a more narrow-focused manner.
+When I joined the team, it was an [SRE](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started) team, so I had the opportunity to learn about being oncall and to gain my first holistic view of products at Google. This experience helped me understand products more comprehensively end-to-end (e.g. monitoring, alerting, reliability), which was something I missed in my first two SWE teams when I worked on specific features in a more narrow-focused manner.
 
 By now the team has become a SWE team as well yet it retains a lot of its great SRE culture.
 
 ## A Day in the Life
 
-Code-wise, I code about 50% of my time - more frequently than in my first team but less frequently than in my second team. I've been doing a lot of interesting design work focusing on infrastructure challenges, and as TL of my sub-team I'm also busy with ensuring that all the other teammates have clear projects and are unblocked.
+Code-wise, I coded about 50% of my time - more frequently than in my first team but less frequently than in my second team. I carried out a lot of interesting design work focusing on infrastructure challenges, and as TL of my sub-team I was also busy ensuring that the other teammates have clear projects and are unblocked.
 
-Compared to my previous teams, in this team I have the most cross-organizational partnerships and associated meetings. I collaborate with Security Engineering teams, the Google internal client teams, and our numerous dependency teams.
+Compared to my previous teams, in this team I had the most cross-organizational partnerships and associated meetings. I collaborated with Security Engineering teams, the Google internal client teams, and numerous dependency teams.
 
 ## What I Especially Love
 
