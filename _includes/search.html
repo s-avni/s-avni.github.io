@@ -1,8 +1,60 @@
-<form method="get" id="search" action="https://duckduckgo.com/">
-  <input type="hidden" name="sites" value="www.shiriavni.org"/>
-  <input type="hidden" name="k8" value="#222222"/>
-  <input type="hidden" name="k9" value="#dc4b3c"/>
-  <input type="hidden" name="kt" value="h"/>
-  <input type="text" id="search__input" name="q" placeholder="Search&hellip;"/ autocomplete="off">
-  <button type="submit" class="btn btn-bordered" tabindex="-1">Search</button>
-</form>
+<!-- HTML search field -->
+<div id="search">
+  <input type="text" id="search__input" placeholder="Search..." autofocus class="btn btn-bordered" tabindex="-1" />
+  <ul id="results-container"></ul>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.9.2/simple-jekyll-search.min.js"></script>
+
+<!-- Configuration -->
+<script>
+  const searchInput = document.getElementById('search__input');
+  const resultsContainer = document.getElementById('results-container');
+
+  // Initialize Simple Jekyll Search
+  SimpleJekyllSearch({
+    searchInput: searchInput,
+    resultsContainer: resultsContainer,
+    json: '/search.json',
+    searchResultTemplate: `
+      <li class="search-result-item">
+        <a href="{url}">{title}</a>
+        <br />
+        <span class="post-meta">{date}</span>
+      </li>`,
+    noResultsText: '<li class="search-result-item">No results found</li>',
+    limit: 10,
+  });
+
+  // Show results only when input has text
+  searchInput.addEventListener('input', function () {
+    if (searchInput.value.trim() !== '') {
+      resultsContainer.style.display = 'block'; // Show results when there's input
+    } else {
+      resultsContainer.style.display = 'none'; // Hide results when empty
+    }
+  });
+</script>
+
+<style>
+  #results-container {
+    margin: 10px auto;
+    margin-top: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fee433;
+    display: none; /* Initially hidden */
+    padding: 20px;
+    max-width: 30rem;
+    list-style: none;
+  }
+
+  .search-result-item a:hover {
+    text-decoration: underline;
+  }
+
+  .post-meta {
+    font-size: 14px;
+    color: #141313;
+  }
+</style>
