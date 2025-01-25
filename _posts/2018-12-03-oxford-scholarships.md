@@ -1,22 +1,20 @@
 ---
-title: 'Oxford: Securing a Scholarship for MSc Students'
+title: 'How to Secure a Scholarship for Your MSc at Oxford'
+layout: post
 categories:
   - Oxford
-tags:
-  - scholarships
-  - colleges
 toc: true
 ---
 
-Studying at Oxford is expensive, but there are many scholarships available for MSc students. With careful planning, there is a good chance you can secure at least some funding for your degree. In fact, after debating whether to apply to Cambridge or Oxford, this was a primary reason I ultimately only applied for the latter: Cambridge appeared to offer significantly fewer scholarships for MSc students.
+Studying at Oxford is expensive, but there are many scholarships available for MSc students. With thoughtful planning, you have a strong chance of securing at least some funding. In fact, after weighing my options between Cambridge and Oxford, the availability of scholarships was a key factor in my decision to apply solely to Oxford—Cambridge appeared to offer significantly fewer funding opportunities for MSc students.
 
 # Uni Scholarships vs College Scholarships
 
-If you've read my previous post about Oxford , you already understand that there is a surprising degree of separation between Oxford University and its individual colleges. Due to this distinction, you should apply for both university-sponsored scholarships and college-sponsored scholarship. This is something that I, along with many of my foreign colleagues, did not fully comprehend before arriving at Oxford.
+If you've read my previous post about Oxford, you may already know that there is a surprising distinction between Oxford University and its individual colleges. Because of this unique structure, you should apply for both university-sponsored and college-specific scholarships. This was something that I, like many of my fellow international students, did not fully grasp before arriving at Oxford.
 
-For a list of university scholarships, see this portal. Although the university search engine is supposed to list all the college-specific scholarships as well, I have found that this is not always true. For instance, this page listing the numerous scholarships specific to New College offers options that do not appear in the university search engine results as of 2018. (Fun fact: “New College” got its name because it was new when it was founded in 1386!)
+For a comprehensive list of university scholarships, see this [portal](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing). Although the university search engine is supposed to list all the college-specific scholarships as well, I have found that this is not always the case. For instance, I've found listings of scholarships specific to the 'New College' college that do not appear in the university search engine results. (Fun fact: 'New College' was named as such because it was considered new when it was founded in 1386!)
 
-My general recommendation is to first explore all the scholarship options listed in the university link above. After that, start researching the scholarship options of each of the colleges (beginning with the wealthiest ones), by Googling them individually.
+My general recommendation is to first explore all the scholarship options listed in the university portal linked above. After that, start researching the scholarship options of each of the colleges (beginning with the wealthiest ones), by searching for their scholarships online individually.
 
 # WHT Scholarship
 

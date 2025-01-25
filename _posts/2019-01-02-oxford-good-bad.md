@@ -1,5 +1,6 @@
 ---
 title: 'Oxford: the Good, the Bad, & the Ugly'
+layout: post
 categories:
   - Oxford
 tags:

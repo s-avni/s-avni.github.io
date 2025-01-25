@@ -1,11 +1,8 @@
 ---
-title: 'Google: Landing the SWE Job - Part 2'
+title: 'Landing the SWE Job at Google (Part 2)'
+layout: post
 categories:
   - google
-tags:
-  - algorithms
-  - data structures
-  - applications
 toc: true
 ---
 

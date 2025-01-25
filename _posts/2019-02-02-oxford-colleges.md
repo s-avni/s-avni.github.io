@@ -1,5 +1,6 @@
 ---
 title: 'Oxford: Picking a College (House)'
+layout: post
 categories:
   - Oxford
 tags:

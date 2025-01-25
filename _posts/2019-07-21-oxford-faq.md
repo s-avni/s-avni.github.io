@@ -1,5 +1,6 @@
 ---
 title: 'Oxford: Q&A for Applicants'
+layout: post
 categories:
   - Oxford
 tags:

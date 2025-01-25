@@ -1,5 +1,6 @@
 ---
-title: 'Google: Landing the SWE Job - Part 1'
+title: 'Landing the SWE Job at Google (Part 1)'
+layout: post
 categories:
   - google
 tags:

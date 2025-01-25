@@ -1,5 +1,6 @@
 ---
-title: 'Blog Revival'
+title: '4 Years Later: Back to Blogging'
+layout: post
 categories:
   - life
 tags:

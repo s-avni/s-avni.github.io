@@ -16,24 +16,13 @@
 title: Shiri Avni
 email: avni.shiri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A curious  muggler's reflections.
+  A curious  muggle's reflections
 github_username: s-avni
-minimal_mistakes_skin: dark
-search: true
-future: true
+url: "https://s-avni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /assets/images/icon-512.png
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-  - _drafts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -47,60 +36,15 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
+paginate: 3
+paginate_path: "/page/:num/"
+
+# TODO - is this used?
 author:
-  bio: "A curious muggle's reflections"
   links:
     - label: 'Linkedin'
       icon: 'fas fa-fw fa-link'
       url: 'https://www.linkedin.com/in/avni-shiri/'
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-
-footer:
-  links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-
-defaults:
-  # _posts
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: '_pages'
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

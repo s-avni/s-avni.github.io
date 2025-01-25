@@ -1,11 +1,8 @@
 ---
-title: 'Google: My Journey Across Multiple Teams'
+title: 'My Journey Through Three Teams at Google'
+layout: post
 categories:
   - google
-  - code
-tags:
-  - team culture
-  - work
 toc: true
 ---
 

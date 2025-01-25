@@ -1,11 +1,8 @@
 ---
-title: 'Oxford MSc Application: Personal Statement'
+title: 'Oxford Personal Statement Guide: Tips and My Sample Essay'
+layout: post
 categories:
   - Oxford
-tags:
-  - code
-  - application
-  - algorithms
 toc: true
 ---
 

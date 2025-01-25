@@ -1,5 +1,6 @@
 ---
 title: 'Oxford MSc Application: Passing the Take Home Assignment & Interview'
+layout: post
 categories:
   - Oxford
 tags:

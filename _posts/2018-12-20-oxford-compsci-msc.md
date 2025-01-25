@@ -1,21 +1,18 @@
 ---
-title: 'Oxford: The CompSci MSc Program'
+title: 'Oxford MSc in Computer Science: My Experience and Course Reviews'
+layout: post
 categories:
   - Oxford
-tags:
-  - code
-  - math
-  - thesis
 toc: true
 ---
 
-This post is intended to give you an idea of what to expect if you enroll in the Oxford MSc in Computer Science program. Beyond discussing the course structure, I’ll also review the courses I took during the 2017/2018 academic year.
+This post aims to provide insight into what you can expect if enroll in the Oxford Computer Science MSc program. In addition to an overview of the course structure, I’ll share my experiences and review the courses I took during the 2017/2018 academic year.
 
 # Degree Structure
 
 ## Courses
 
-The program is divided into three terms. You enroll in courses during the first two terms and work on your dissertation in the third. You can officially enroll in up to four courses per term, though you may audit additional courses if your schedule permits (one of my friends took six courses in the first term). You need to complete at least six courses to graduate.
+The program is split into three terms. Normally you enroll in courses during the first two terms and work on your dissertation in the third. You can officially enroll in up to four courses per term, though you may audit additional courses if your schedule permits (one of my friends took six courses in the first term). You need to complete at least six courses to graduate.
 
 Courses vary widely in exam and homework difficulty, but everyone I spoke to agreed that the workload is manageable. Personally, I found my undergraduate studies in Israel to be more demanding than the MSc. An upside of this is that you have more time to explore the city and begin your research early if you would like.
 
