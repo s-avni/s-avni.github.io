@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% include menu.html %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+  <ul class="post-list">
+    {% for post in site.posts %} {% include post-list-item.html %} {% endfor %}
+  </ul>
+</main>

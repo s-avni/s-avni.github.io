@@ -1,5 +1,5 @@
 ---
-title: 'How to Secure a Scholarship for Your MSc at Oxford'
+title: 'How to Secure a Scholarship for Your Oxford MSc'
 layout: post
 categories:
   - Oxford

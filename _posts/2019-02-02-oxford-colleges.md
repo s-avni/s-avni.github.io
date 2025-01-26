@@ -1,5 +1,5 @@
 ---
-title: 'Oxford: Picking a College (House)'
+title: 'Oxford: Picking a College (aka "Hogwarts House")'
 layout: post
 categories:
   - Oxford

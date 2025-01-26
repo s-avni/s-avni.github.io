@@ -1,5 +1,5 @@
 ---
-title: 'Choosing the Right Team: Key Questions and Insights from My Google Experience'
+title: 'Choosing the Right Team: Insights from My Google Experience'
 layout: post
 categories:
   - google
@@ -65,18 +65,18 @@ Subject: Looking for a new Team
 
 Hi Person X,
 
-I'm not sure you remember me, but … / I got your details 
+I'm not sure you remember me, but … / I got your details
 from LinkedIn / Person Y….
 
-I'm reaching out to ask for your advice on finding a new 
+I'm reaching out to ask for your advice on finding a new
 team during this tricky time. Unfortunately, while I love
- the product I currently work on, the team dynamics have 
+ the product I currently work on, the team dynamics have
  made me realize that it's time to find a new home
   <OR WHATEVER YOUR REASON IS>.
 
-Although your team likely does not have headcount at the 
-moment, I’d really appreciate it if you could keep me in 
-mind when you hear about any other openings! I'd love to 
+Although your team likely does not have headcount at the
+moment, I’d really appreciate it if you could keep me in
+mind when you hear about any other openings! I'd love to
 chat over vc as well if you have any time.
 
 For your convenience, I'm attaching my CVs.
@@ -94,8 +94,8 @@ Hi Person X,
 
 Nice to e-meet you!
 
-I'm an XX SWE in YY looking for a new home. I'm reaching 
-out to ask if your team is possibly hiring in the near 
+I'm an XX SWE in YY looking for a new home. I'm reaching
+out to ask if your team is possibly hiring in the near
 future, having learned about your team from ZZZ.
 
 If it's relevant, my CV is available at <LINK>.
