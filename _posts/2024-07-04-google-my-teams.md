@@ -1,5 +1,5 @@
 ---
-title: 'My Journey Through Three Teams at Google'
+title: 'My Journey Through 3 Teams at Google'
 layout: post
 categories:
   - google
