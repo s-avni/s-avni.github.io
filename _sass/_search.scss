@@ -8,15 +8,16 @@
   background: transparent;
   border: 0;
   font: 1em $font-family;
-  padding: .5em;
+  padding: 0.5em;
   color: $text-color;
   text-align: center;
-  &:focus {
-    outline: 1px dashed $text-color;
+  & {
+    outline: 1px dashed $muted-text-color;
+    transform: scale(0.99);
   }
 }
 
-#search button[type="submit"] {
+#search button[type='submit'] {
   display: none;
 }
 
