@@ -6,13 +6,13 @@ categories:
 toc: true
 ---
 
-After spending four years at Google, it was time to go. In this post, I'll share why I decided to leave Google - a company that I’m grateful to have been a part of - and what I'm looking for next.
+After spending four years at Google, it was time to move on. In this post, I'll share why I decided to leave Google - a company that I’m grateful to have been a part of - and what I'm looking for next.
 
 ## Google is a Wonderful Yet Slow Place
 
 Google is an extraordinarily comfortable and kind place to work at. I met so many talented, skilled, and intelligent people. I received exceptional mentorship from my managers and senior developers, enjoyed the well-known perks (free meals & gym access) and had the flexibility to hop between different teams. Google is a fantastic environment to kickstart a career and learn about the tech industry.
 
-Despite these benefits, it was time for me to go.
+Despite these benefits, it was time for me to move on.
 
 Google today isn't the same company it once was. With over [180,000](https://seo.ai/blog/how-many-people-work-at-google#:~:text=Google's%20employee%20count%20stands%20at,the%20previous%20count%20of%20182%2C381.) employees as of January 2025, it often feels more like a sprawling bureaucracy than an agile, innovative company. A few examples to highlight this:
 
