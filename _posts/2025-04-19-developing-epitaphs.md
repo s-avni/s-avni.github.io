@@ -63,7 +63,9 @@ I was surprised by how widely hosting platforms can vary in cost and usability.
 
   Deployment with Cloudflare was also more straightforward. GitHub Pages, especially for organization-owned repos, required us to add an additional base path in the URL (configurable in `vite.config.ts` files). This nuance isn’t necessary when hosting from a user repo, but the documentation around this was confusing and wasted several hours of our time.
 
-  On the other hand, Cloudflare doesn't provide CI/CD support out of the box, so we are continuing to use [Github Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) for our CI/CD pipeline.
+  On the other hand, when we switched to deploying on Cloudflare in coordination with [Github Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) (via [Wranglers](https://developers.cloudflare.com/workers/ci-cd/external-cicd/github-actions/)), we ran into some internal errors on Cloudflare that offered no indication of the core issue.
+
+  So for now we have decided to stay with Github Actions for our CI/CD, and to build directly in Github Actions as well. We upload the `dist` output to Cloudflare directly. As a result, we are setting up our Frontend's environment secrets/variables in Github environments rather than in Cloudflare, which is a bit awkward. It works though, so we'll keep this setup for now.
 
 - **Backend hosting:** we started with [Railway](https://railway.com/), which has a very nice GUI. However, they charged us a lot! We ran into one of those oh-so-classic Google "new-vs-legacy" scenarios: the new service Railway advertised, called [Railway Metal](https://docs.railway.com/railway-metal) was cheap, but it missed crucial features (such as static IP addresses). So we stayed with the old Railway service, which was much too expensive. We were paying about 1$ a day, although it was only me and my partner working on the site.
 
