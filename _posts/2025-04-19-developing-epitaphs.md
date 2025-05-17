@@ -2,7 +2,9 @@
 title: 'Lessons from Building a Farewell Letter Website'
 layout: post
 categories:
-  - google
+  - personal development
+  - website
+  - coding
 toc: true
 ---
 
@@ -90,4 +92,4 @@ Takeaway: as always, there is no such thing as a silver bullet. Finding the righ
 
 ## What Next?
 
-I'm excited to wrap up this project and release it publicly. My partner and I are considering open-sourcing it, so that others can contribute as well. If we do open-source it, we'd love feedback or contributions from others interested in promoting death acceptance and death positivity. After that, time for the next project!
+I'm excited to wrap up this project and release it publicly. My partner and I are considering open-sourcing it, so that others can contribute as well. If we do open-source it, we'd love feedback or contributions from others interested in promoting death acceptance and death positivity. After that, time for the next, more serious project!

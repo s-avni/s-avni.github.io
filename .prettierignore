@@ -3,3 +3,7 @@ build
 dist
 *.min.js
 _site/*
+
+_posts/2025-05-17-epitaphs-comparison.md
+
+assets/css/main.scss

@@ -44,13 +44,13 @@ Be sure to start your `url`s with a `/`.
 
 To paginate your posts, add the following line to your site's `Gemfile`:
 
-```
+```bash
 gem "jekyll-paginate"
 ```
 
 Then, add the following lines to your site's `_config.yml` file:
 
-```
+```bash
 plugins:
   - jekyll-paginate
 
