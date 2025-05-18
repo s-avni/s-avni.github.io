@@ -12,15 +12,70 @@ As I detailed in my [previous post](https://www.shiriavni.org/google/2025/04/19/
 
 ## Table of Comparisons
 
-| Site / Features: | [Dead Man's Switch](https://www.deadmansswitch.net/) | [My Wishes](https://www.mywishes.co.uk/) | [Afterwords.life](https://www.afterwords.life/) | [Go-Paige](https://go-paige.com/memories/) | [Our Website](https://epitaphs.pages.dev/) |
-|---|---|---|---|---|---|
-| Supports Public Messages | No | Yes | No | IDK, couldn't register <br>without<br>an American phone number. | Yes |
-| Supports Private Messages | Yes | No | Yes |  | Not yet. |
-| Message Release Mechanism | Service sends periodic emails to <br>your email address. <br>If you don't respond after X <br>time, messages are sent. | Assigned loved ones inform <br>the site of your death. | Assigned loved ones inform<br>the site of your death, or<br>you can have messages <br>sent at a certain date/location. |  | Assigned loved ones inform<br>the site of your death. |
-| Cost | 50 USD  | Free | Free |  | Free |
-| Message Content Limitations | Bare bones text only | Bare bones text + <br>upload up to 1 video | Upload a photo/video/<br>audio recording/document.<br><br>No option to write text<br> directly in the app. |  | Supports text in various <br>colors/fonts/sizes.<br>Supports<br>embedding photos and<br>uploading videos. |
-| Platform | Website + <br>Android App <br>(app is buggy) | Website only | Android + <br>iOS App (no website).<br><br><br>App is pretty but is<br>buggy and randomly <br>crashes. |  | Website only |
-| Other Features |  | Provides support for other <br>end-of-life services: <br>funeral planning, will writing,<br>etc. <br><br>Supports sending messages at <br>different intervals after <br>your death (e.g. 1 month after <br>your death, or on<br>specific desired dates). |  |  |  |
+<div class="overflow-table-wrapper">
+<table>
+  <thead>
+    <tr>
+      <th>Site / Features:</th>
+      <th><a href="https://www.deadmansswitch.net/">Dead Man's Switch</a></th>
+      <th><a href="https://www.mywishes.co.uk/">My Wishes</a></th>
+      <th><a href="https://www.afterwords.life/">Afterwords.life</a></th>
+      <th><a href="https://epitaphs.pages.dev/">Our Website</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Supports <br>Public Messages</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Supports <br>Private Messages</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>Not yet.</td>
+    </tr>
+    <tr>
+      <td>Message <br>Release Mechanism</td>
+      <td>Service sends periodic emails to <br>your email address. <br>If you don't respond after X <br>time, messages are sent.</td>
+      <td>Assigned loved ones inform <br>the site of your death.</td>
+      <td>Assigned loved ones inform<br>the site of your death, or<br>you can have messages <br>sent at a certain date/location.</td>
+      <td>Assigned loved ones inform<br>the site of your death.</td>
+    </tr>
+    <tr>
+      <td>Cost</td>
+      <td>50 USD</td>
+      <td>Free</td>
+      <td>Free</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td>Message <br>Content Limitations</td>
+      <td>Bare bones text only</td>
+      <td>Bare bones text + <br>upload up to 1 video</td>
+      <td>Upload a photo/video/<br>audio recording/document.<br><br>No option to write text<br>directly in the app.</td>
+      <td>Supports text in various <br>colors/fonts/sizes.<br>Supports<br>embedding photos and<br>uploading videos.</td>
+    </tr>
+    <tr>
+      <td>Platform</td>
+      <td>Website + <br>Android App <br>(app is buggy)</td>
+      <td>Website only</td>
+      <td>Android + <br>iOS App (no website).<br><br>App is pretty but is<br>buggy and randomly <br>crashes.</td>
+      <td>Website only</td>
+    </tr>
+    <tr>
+      <td>Other <br>Features</td>
+      <td></td>
+      <td>Provides support for other <br>end-of-life services: <br>funeral planning, will writing,<br>etc. <br><br>Supports sending messages at <br>different intervals after <br>your death (e.g. 1 month after <br>your death, or on<br>specific desired dates).</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Comparisons & Thoughts
 
