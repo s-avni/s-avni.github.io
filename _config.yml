@@ -41,3 +41,7 @@ plugins:
 
 paginate: 3
 paginate_path: '/page/:num/'
+
+# Pinned posts - specify the filenames (without extension) of posts to pin to the top
+pinned_posts:
+  - 2025-01-26-leaving-google

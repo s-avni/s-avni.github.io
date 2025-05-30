@@ -24,6 +24,22 @@ layout: default
 
 <main class="home" id="main" role="main" aria-label="Content">
 
+  {% if site.pinned_posts and paginator.page == 1 or site.pinned_posts and paginator.page == nil %}
+  <h1 class="content-title divided">
+    Pinned Posts
+  </h1>
+  
+  <ul class="post-list pinned-posts">
+    {% for pinned in site.pinned_posts %}
+      {% for post in site.posts %}
+        {% if post.path contains pinned %}
+          {% include post-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
@@ -36,7 +52,17 @@ layout: default
     
     <ul class="post-list">
       {% for post in paginator.posts %}
-        {% include post-list-item.html %}
+        {% assign is_pinned = false %}
+        {% if site.pinned_posts and paginator.page == 1 %}
+          {% for pinned in site.pinned_posts %}
+            {% if post.path contains pinned %}
+              {% assign is_pinned = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+        {% unless is_pinned %}
+          {% include post-list-item.html %}
+        {% endunless %}
       {% endfor %}
     </ul>
 
