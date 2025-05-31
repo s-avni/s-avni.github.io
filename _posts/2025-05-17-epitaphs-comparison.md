@@ -38,7 +38,7 @@ As I detailed in my [previous post](https://www.shiriavni.org/google/2025/04/19/
       <td>Yes</td>
       <td>No</td>
       <td>Yes</td>
-      <td>Yes</td>>
+      <td>Yes</td>
       <td>Not yet.</td>
     </tr>
     <tr>
