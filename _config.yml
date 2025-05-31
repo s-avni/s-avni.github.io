@@ -39,7 +39,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 6
 paginate_path: '/page/:num/'
 
 # Pinned posts - specify the filenames (without extension) of posts to pin to the top
